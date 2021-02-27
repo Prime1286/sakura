@@ -67,4 +67,8 @@
     .data-content__title {
         font-size: 28px;
         text-align: center;}
+    .hero__logo {
+    width:300px;
+    height:60px;
+    }
 }
