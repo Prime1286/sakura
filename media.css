@@ -64,4 +64,7 @@
     .hero__logo-text, .hero__title {font-size: 30px;}
     .hero__text {font-size: 20px;}
     .menu__nav-link {font-size: 22px;}
+    .data-content__title {
+        font-size: 28px;
+        text-align: center;}
 }
