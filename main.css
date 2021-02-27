@@ -48,6 +48,9 @@ display: flex;
 justify-content: space-between;    
 min-height: 40px;
 }
+.menu__icons {
+ display: flex;   
+}
 .menu__nav {
 display: flex;
 }
@@ -70,7 +73,7 @@ transition: all .6s;
 text-decoration: underline;    
 }
 .menu__logo img 
-{   width: 100px;
+{   width: 80px;
     height: auto;}
 .hero__inner {
     position: absolute;
