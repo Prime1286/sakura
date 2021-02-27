@@ -85,7 +85,7 @@ text-decoration: underline;
     justify-content: space-around;
 }
 .hero__logo {
-    background: url(/media/datasakura.svg) no-repeat center/cover;
+    background: url(media/datasakura.svg) no-repeat center/cover;
     height: 83px;
     width: 574px;
     display: block;
@@ -128,7 +128,7 @@ text-align: left;
 .data-title {
 position: relative;
 min-height: 83px;
-background: url(/media/data-icon.jpg) no-repeat left bottom;
+background: url(media/data-icon.jpg) no-repeat left bottom;
 display: flex;
 justify-content: center;
 align-items: flex-end;
@@ -180,11 +180,11 @@ border-color: #ffa5ff;
 }
 .benefits .title-decor {max-width: unset;}
 .benefits .data-title {
-background: url(/media/benefits-icon.jpg) no-repeat left bottom;
+background: url(media/benefits-icon.jpg) no-repeat left bottom;
 min-height: 150px;}
 .guarantee {padding: 120px 15px;}
 .guarantee .data-title {
-    background: url(/media/quarantee-icon.jpg) no-repeat left bottom;
+    background: url(media/quarantee-icon.jpg) no-repeat left bottom;
     min-height: 101px;}
 
     /* enguare */
@@ -255,4 +255,4 @@ margin: 0 5px;
 text-align: center;
 }
 a.call {margin-right: 25px;}
-svg path{fill:red;}
+
